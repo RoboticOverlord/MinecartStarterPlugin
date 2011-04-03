@@ -1,0 +1,7 @@
+name: Micro Minecart Starter
+main: com.roboticoverlord.micro.bukkit.MineCartStarterPlugin
+version: 1.0.0
+commands:
+    minecart:
+        description: Spawns a minecart, places player in, and gives it initial momentum.
+        usage: /<command>
